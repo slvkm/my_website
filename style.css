@@ -10,5 +10,13 @@ body {
 }
 @font-face {
     font-family: Quicksand;
-    src: local('Quicksand'), url(fonts/)
+    src: local('Quicksand'), url(fonts/Quicksand.ttf)
+}
+.fname {
+    margin-top: 50px;
+    font-family: Quicksand;
+}
+.aboutme {
+    font-family: Quicksand;
+    margin-top: 40px;
 }
