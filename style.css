@@ -1,0 +1,13 @@
+body {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background-color: #ffffff;
+}
+
+.round {
+    border-radius: 100px;
+    box-shadow: 0 0 10px black;
+    left: 595px;
+    top: 100px;
+}
