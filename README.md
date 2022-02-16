@@ -1,1 +1,1 @@
-Web site: https://slvkm.github.io/web_lab_1/
+Web site: https://slvkm.github.io/my_website/
